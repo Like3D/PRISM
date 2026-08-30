@@ -1,4 +1,4 @@
-# PRISM Demonstration
+# PRISM
 
 <p align="center">
   <img src="./svg/icon.svg" alt="PRISM icon" width="140">
