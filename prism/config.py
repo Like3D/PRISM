@@ -17,4 +17,4 @@ class PrismConfig:
     kmeans_model_path: str = "./model/Middlebury_128.model"
     depth_norm_bins: int = 1024
     plot_results: bool = True
-    proxy_device: str = “cpu"
+    proxy_device: str = "cpu"
